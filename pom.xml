@@ -94,7 +94,7 @@
 		<repository>
 			<id>nexus</id>
 			<name>releases</name>
-			<url>http://13.232.77.55:8081/repository/devops-releases/</url>
+			<url>http://13.232.60.237:8081/repository/devops-releases/</url>
 		</repository>
 	</repositories>
 	<distributionManagement>
